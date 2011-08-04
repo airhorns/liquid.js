@@ -1,0 +1,18 @@
+{
+  "author": "Matt McCray",
+  "name": "liquid",
+  "description": "JavaScript port of Tobias Luetke's Liquid template engine.",
+  "version": "1.2.1",
+  "homepage": "https://github.com/hornairs/liquid.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hornairs/liquid.js.git"
+  },
+  "main": "source/node.js",
+  "files": ["source/node.js", "dist/liquid.js", "ReadMe.textile", "licenses"],
+  "engines": {
+    "node": "~v0.4.8"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
